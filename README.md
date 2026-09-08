@@ -12,7 +12,7 @@ I created this repository to:
 - Practice Linux and security concepts.
 - Understand the techniques used to solve different challenges.
 - Create beginner-friendly writeups and notes.
-- 
+  
 ## Wargames
 
 The writeups in this repository will cover different OverTheWire wargames.
