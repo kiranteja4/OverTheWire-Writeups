@@ -1,4 +1,4 @@
-**# 🏴 OverTheWire Writeups
+## OverTheWire Writeups
 
 Welcome to my OverTheWire Writeups repository! 
 
@@ -43,7 +43,7 @@ These writeups contain commands, techniques, and approaches used to solve the ch
 
 If you are currently working on an OverTheWire challenge, I recommend trying to solve it yourself before checking the corresponding writeup.
 
-## 🎯 Who Is This Repository For?
+##  Who Is This Repository For?
 
 This repository can be useful for:
 
@@ -72,7 +72,7 @@ Passwords and sensitive credentials are intentionally not included in this repos
 
 ---
 
- If you find these writeups helpful, feel free to explore the repository!**
+ If you find these writeups helpful, feel free to explore the repository!
 
 ---
 
